@@ -9,6 +9,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
+    "sqlite:rebuild": "electron-rebuild",
     "electron:start": "electron ."
   },
   "dependencies": {
